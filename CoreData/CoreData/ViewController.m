@@ -19,6 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    // 设置上下文的方法
     [self setupContext];
     
 }
